@@ -1,4 +1,4 @@
-<svg width="550" height="300" viewBox="0 0 550 300" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="550" height="270" viewBox="0 0 550 270" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <style>
     .bubble {
       fill: #e9e9eb;
@@ -228,8 +228,8 @@
 
   <!-- Hi, I'm Sigrid Jin -->
   <g transform="translate(10, 0)" class="msg-1 bubble">
-    <rect width="159" height="42" rx="18.0355" />
-    <text x="15" y="27">Hi, I'm Phuc Bui</text>
+    <rect width="225" height="42" rx="18.0355" />
+    <text x="15" y="27">Hi, I'm phuc-buivinh-dh</text>
   </g>
 
   <!-- typing 2 -->
@@ -252,7 +252,7 @@
 
   <!-- From Columbus... -->
   <g transform="translate(10, 48)" class="msg-2">
-    <rect width="470" height="66.1302" rx="18.0355" class="bubble" />
+    <rect width="475" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">I live in Danang Vietnam – it’s supposed to be {degC}° C</text>
     <text x="15" y="50">and {wdes}<tspan class="emoji">{weatherEmoji}</tspan> today.</text>
   </g>
@@ -277,13 +277,12 @@
 
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
-    <rect width="310" height="66.1302" rx="18.0355" class="bubble" />
+    <rect width="310" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">I’m eager to challenge new things!</text>
-    <text x="15" y="50">Now learning Data/AI fields.</text>
   </g>
 
   <!-- typing 4 -->
-  <g transform="translate(10, 192)" class="typing-4">
+  <g transform="translate(10, 168)" class="typing-4">
     <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
     <circle cx="13.591" cy="33.091" r="7.68185" class="bubble" />
     <circle cx="3.54547" cy="41.9547" r="3.54547" class="bubble" />
@@ -301,16 +300,15 @@
   </g>
 
   <!-- Twitter -->
-  <g transform="translate(10, 192)" class="msg-4">
-    <rect width="490" height="42" rx="18.0355" class="bubble" />
+  <g transform="translate(10, 168)" class="msg-4">
+    <rect width="330" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">
-      You can find me more on
-          <a xlink:href="https://phucbuiworks.github.io/">https://phucbuiworks.github.io/</a>
+      Now learning and working in AI fields.
     </text>
   </g>
 
   <!-- typing 5 -->
-  <g transform="translate(10, 240)" class="typing-5">
+  <g transform="translate(10, 216)" class="typing-5">
   <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
   <circle cx="13.591" cy="33.091" r="7.68185" class="bubble" />
   <circle cx="3.54547" cy="41.9547" r="3.54547" class="bubble" />
@@ -328,7 +326,7 @@
   </g>
 
   <!-- Thanks -->
-  <g transform="translate(10, 240)" class="msg-5">
+  <g transform="translate(10, 216)" class="msg-5">
     <rect width="250" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">Have a great {todayDay}! <tspan class="emoji">👋</tspan></text>
   </g>
