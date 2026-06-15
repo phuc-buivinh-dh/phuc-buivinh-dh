@@ -18,8 +18,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-phucbui22-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/phucbui22/)](https://www.linkedin.com/in/phucbui22/)
 [![Medium Badge](https://img.shields.io/badge/-@phucbuiworks-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@phucbuiworks)](https://medium.com/@phucbuiworks)
 [![Website Badge](https://img.shields.io/badge/-phucbuiworks.github.io-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://phucbuiworks.github.io/)](https://phucbuiworks.github.io/)
-[![Twitter Badge](https://img.shields.io/badge/-@dailykohi-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/dailykohi)](https://twitter.com/dailykohi)
-[![Instagram Badge](https://img.shields.io/badge/-@dailyorenji-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/dailyorenji/)](https://instagram.com/dailyorenji)
 [![Gmail Badge](https://img.shields.io/badge/-phucbuiworks-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:phucbuiworks@gmail.com)](mailto:phucbuiworks@gmail.com)
 ![GitHub last commit](https://img.shields.io/github/last-commit/phuc-buivinh-dh/phuc-buivinh-dh)
 
